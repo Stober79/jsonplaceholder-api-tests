@@ -2,13 +2,13 @@
 
 Postman collection for testing the public API at https://jsonplaceholder.typicode.com
 
-## ✅ Features
+## Features
 
 - 20+ test cases covering positive and negative scenarios
 - Includes: posts, comments, users, todos, albums, photos
 - Proper use of pm.test(), status checks, body validations
 
-## 📂 Structure
+## Structure
 
 ### Positive tests
 - `GET /posts`, `GET /posts/1`, `GET /posts?userId=1`
@@ -21,7 +21,7 @@ Postman collection for testing the public API at https://jsonplaceholder.typicod
 - POST without body
 - DELETE and PATCH on resources
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open Postman
 2. Import collection: `Postman_Collections/JSONPlaceholder_Collection.json`
@@ -29,12 +29,12 @@ Postman collection for testing the public API at https://jsonplaceholder.typicod
 4. Select `JSONPlaceholder Environment`
 5. Use Runner or Newman to execute tests
 
-## 🛠️ Technologies
+## Technologies
 
 - Postman
 - REST API
 - pm.expect / JavaScript assertions
 
-## 📌 Use cases
+## Use cases
 
 Great for showcasing API testing skills on GitHub or LinkedIn.
