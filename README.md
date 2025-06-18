@@ -19,7 +19,7 @@ Postman collection for testing the public API at https://jsonplaceholder.typicod
 ### Negative tests
 - Invalid post ID, invalid endpoint
 - POST without body
-- DELETE and PUT on resources
+- DELETE and PATCH on resources
 
 ## 🚀 How to Use
 
